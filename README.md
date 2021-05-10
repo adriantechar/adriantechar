@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adriantechar
 - 👀 I’m interested in product design and UX architecture  
 - 🌱 I’m currently learning data analysis to enhance my data-driven decision making skills.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on IT outsourcing projects
 - 📫 How to reach me adriantechar@gmail.com
 
 <!---
